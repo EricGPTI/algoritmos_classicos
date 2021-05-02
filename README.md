@@ -7,6 +7,11 @@ Na verdade, os algoritmos aqui não são os principais, pois seria muito complic
 Aqui veremos algoritmos como:
 
 * Insertion Sort
+
+Aqui o desafio é implementar o algoritmo de seleção por inserção e seleção por inserção reversa.
+
+Vamos aproveitar a oportunidade para implementarmos testes para validar nossa saída.
+
 * Selection Sort
 * Heap Sort
 * Quicksort
